@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\bin\Debug\OTG File Protector.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\bin\Debug\OTG File Protector.exe
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\bin\Debug\OTG File Protector.pdb
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\FIle_Encyrptor.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\FIle Encyrptor.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\FIle Encyrptor.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\OTG File Protector.exe
+C:\Users\MONSTERMC\Desktop\New folder (9)\FIle Encyrptor\obj\Debug\OTG File Protector.pdb
